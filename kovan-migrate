@@ -1,0 +1,128 @@
+Compiling your contracts...
+===========================
+> Compiling ./contracts/SwapContract.sol
+> Artifacts written to /home/ubuntu/UMC-proj/build/contracts
+> Compiled successfully using:
+   - solc: 0.5.16+commit.9c3226ce.Emscripten.clang
+
+
+
+Starting migrations...
+======================
+> Network name:    'ganache'
+> Network id:      5777
+> Block gas limit: 0x6691b7
+
+
+1_initial_migration.js
+======================
+
+   Replacing 'Migrations'
+   ----------------------
+   > transaction hash:    0xc22b79961039b15464b777cf20dbb1a45d2e9cbd44df92d667d8d3f7cba95be8
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xa2B2ccb6D5b4b58edfC7B42d65d99303d002B1aD
+   > block number:        714
+   > block timestamp:     1586671353
+   > account:             0x28E5dBAd69dD8723a2f93849665988E0B882A8b7
+   > balance:             89.619798741
+   > gas used:            225237
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00450474 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00450474 ETH
+
+
+2_deploy.js
+===========
+
+   Replacing 'EBTC'
+   ----------------
+   > transaction hash:    0xc6338783240427fd174a52022465db93f44de5c79abb98429e0ad12fea6c85e8
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xB53CE4e5E7b1c08138a3CF7b5FE7a531fEACA17b
+   > block number:        716
+   > block timestamp:     1586671357
+   > account:             0x28E5dBAd69dD8723a2f93849665988E0B882A8b7
+   > balance:             89.597180961
+   > gas used:            1088526
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.02177052 ETH
+
+
+   Replacing 'SwapContract'
+   ------------------------
+   > transaction hash:    0x89fb8a2b0e198fee6441a039cf7084a30151c5b6a34fc7dd18d777c47a79e054
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xCD3aE61a015D42CE1f16928AD36De8Bf3Cd114c3
+   > block number:        717
+   > block timestamp:     1586671357
+   > account:             0x28E5dBAd69dD8723a2f93849665988E0B882A8b7
+   > balance:             89.556453181
+   > gas used:            2036389
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.04072778 ETH
+
+
+   Replacing 'ChequeOperator'
+   --------------------------
+   > transaction hash:    0x09762343455931e350c3bb9da79deae934a1d7464f7023a99bc4a2dfa8784af9
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x27531241d42d9bea476f2Fe00C7734a66f136cF8
+   > block number:        718
+   > block timestamp:     1586671358
+   > account:             0x28E5dBAd69dD8723a2f93849665988E0B882A8b7
+   > balance:             89.525974861
+   > gas used:            1523916
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.03047832 ETH
+
+
+   Replacing 'UMCToken'
+   --------------------
+   > transaction hash:    0x6b4425b79c40698a0ff32e2edcaeff5216024b5de046f2e1e851e796c4e8308d
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x297199759D6072Af2f6ae3EE396E8cc6697f3eb7
+   > block number:        719
+   > block timestamp:     1586671359
+   > account:             0x28E5dBAd69dD8723a2f93849665988E0B882A8b7
+   > balance:             89.463609241
+   > gas used:            3118281
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.06236562 ETH
+
+
+   Replacing 'UMCRecipient'
+   ------------------------
+   > transaction hash:    0x169c4b49bb4f63014921b822ea836da70bf643e3f3ce7b59aba77216b0915cb9
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x24b620195BB7FA3D51c29B2D6bA6273AbB291dE1
+   > block number:        720
+   > block timestamp:     1586671360
+   > account:             0x28E5dBAd69dD8723a2f93849665988E0B882A8b7
+   > balance:             89.456982561
+   > gas used:            331334
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00662668 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.16196892 ETH
+
+
+Summary
+=======
+> Total deployments:   6
+> Final cost:          0.16647366 ETH

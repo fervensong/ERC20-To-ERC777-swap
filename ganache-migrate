@@ -1,0 +1,103 @@
+2_deploy.js
+===========
+
+   Replacing 'EBTC'
+   ----------------
+   > transaction hash:    0xe32b2769bfdd25fc04b5221c311ab8a486c090f3bca0e3f1f1ac215ca7ee9a37
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x46314CB43158ee6b35796874Bc3A88CA9b5B27f8
+   > block number:        876
+   > block timestamp:     1587316336
+   > account:             0x28E5dBAd69dD8723a2f93849665988E0B882A8b7
+   > balance:             88.247147289
+   > gas used:            653416
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.01306832 ETH
+
+
+   Replacing 'SwapContract'
+   ------------------------
+   > transaction hash:    0xe5da9e96fb56ad285b38f35bfc4b3357d510e2c778830d9643e5a94e785b5297
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xf14E6d5f1500aFd8dE6DcBA6c1D91138578ca051
+   > block number:        877
+   > block timestamp:     1587316337
+   > account:             0x28E5dBAd69dD8723a2f93849665988E0B882A8b7
+   > balance:             88.220469909
+   > gas used:            1333869
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.02667738 ETH
+
+
+   Replacing 'ChequeOperator'
+   --------------------------
+   > transaction hash:    0xb44a824fd9e668d32094be2fbd98a8cf0c5c986b7d7768a7d047e2cac6d0016a
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x45C55f1387dFA6eF2dA45a4BfC5800295c87F365
+   > block number:        878
+   > block timestamp:     1587316337
+   > account:             0x28E5dBAd69dD8723a2f93849665988E0B882A8b7
+   > balance:             88.206647009
+   > gas used:            691145
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0138229 ETH
+
+
+   Replacing 'UMCToken'
+   --------------------
+   > transaction hash:    0xdb1a71a2377f21694b9c67171fab4b2ad1ab5b00e692125a08dc6dc8fa56771d
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xd13Dde4717166DE0175354efd27Ea73F47FdFC59
+   > block number:        879
+   > block timestamp:     1587316338
+   > account:             0x28E5dBAd69dD8723a2f93849665988E0B882A8b7
+   > balance:             88.162764069
+   > gas used:            2194147
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.04388294 ETH
+
+
+   Replacing 'UMCRecipient'
+   ------------------------
+   > transaction hash:    0xc7a5615b6e610e5d9c05c51bd8804a14e75027ff0cc55f2a3f280a554976dd7f
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x7a3FadAC8d57d117e76115358aaE0ff2f2d03f62
+   > block number:        880
+   > block timestamp:     1587316338
+   > account:             0x28E5dBAd69dD8723a2f93849665988E0B882A8b7
+   > balance:             88.157353969
+   > gas used:            270505
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0054101 ETH
+
+
+   Replacing 'BatchSend'
+   ---------------------
+   > transaction hash:    0x988540a4b0ad9b2d7edb0b819917acb706d130c6e10cdd152b73cfe0ff01b368
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x2B9DD5c17a95F73E9C75CBebeBc16e9EC5314a78
+   > block number:        882
+   > block timestamp:     1587316338
+   > account:             0x28E5dBAd69dD8723a2f93849665988E0B882A8b7
+   > balance:             88.147889249
+   > gas used:            408504
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00817008 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.11103172 ETH
+
+
+Summary
+=======
+> Total deployments:   7
+> Final cost:          0.11439744 ETH

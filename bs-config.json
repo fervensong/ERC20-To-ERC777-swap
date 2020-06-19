@@ -1,0 +1,9 @@
+{
+  "port": 8040,
+  "server": {
+    "baseDir": ["./src", "./build/contracts"]
+  },
+  "ui": {
+      "port": 8001
+   }
+}
