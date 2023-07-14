@@ -25,7 +25,7 @@
     "chai": "^4.2.0",
     "dotenv": "^8.2.0",
     "ganache-cli": "^6.7.0",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "solhint": "^2.3.0",
     "truffle": "^5.0.41",
     "truffle-hdwallet-provider": "^1.0.17",
